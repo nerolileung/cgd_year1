@@ -1,0 +1,55 @@
+﻿  Pacman.cpp
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.14.26428\include\vector(675): warning C4251: 'std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>'
+          with
+          [
+              _Ty=S2D::Input::Keys,
+              _Alloc=std::allocator<S2D::Input::Keys>
+          ]
+          and
+          [
+              _Ty=S2D::Input::Keys
+          ]
+          and
+          [
+              _Ty=S2D::Input::Keys,
+              _Alloc=std::allocator<S2D::Input::Keys>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.14.26428\include\vector(654): note: see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  c:\users\l011092i\onedrive - staffordshire university\fggsd tutorials\pacman\pacman\s2d\input.h(108): note: see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+c:\users\l011092i\onedrive - staffordshire university\fggsd tutorials\pacman\pacman\pacman.cpp(6): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\l011092i\onedrive - staffordshire university\fggsd tutorials\pacman\pacman\pacman.cpp(48): warning C4154: deletion of an array expression; conversion to pointer supplied
+c:\users\l011092i\onedrive - staffordshire university\fggsd tutorials\pacman\pacman\pacman.cpp(55): warning C4154: deletion of an array expression; conversion to pointer supplied
+c:\users\l011092i\onedrive - staffordshire university\fggsd tutorials\pacman\pacman\pacman.cpp(115): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\l011092i\onedrive - staffordshire university\fggsd tutorials\pacman\pacman\pacman.cpp(219): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\l011092i\onedrive - staffordshire university\fggsd tutorials\pacman\pacman\pacman.cpp(225): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\l011092i\onedrive - staffordshire university\fggsd tutorials\pacman\pacman\pacman.cpp(231): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\l011092i\onedrive - staffordshire university\fggsd tutorials\pacman\pacman\pacman.cpp(237): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\l011092i\onedrive - staffordshire university\fggsd tutorials\pacman\pacman\pacman.cpp(260): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\l011092i\onedrive - staffordshire university\fggsd tutorials\pacman\pacman\pacman.cpp(266): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\l011092i\onedrive - staffordshire university\fggsd tutorials\pacman\pacman\pacman.cpp(310): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\l011092i\onedrive - staffordshire university\fggsd tutorials\pacman\pacman\pacman.cpp(311): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\l011092i\onedrive - staffordshire university\fggsd tutorials\pacman\pacman\pacman.cpp(339): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\l011092i\onedrive - staffordshire university\fggsd tutorials\pacman\pacman\pacman.cpp(409): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\l011092i\onedrive - staffordshire university\fggsd tutorials\pacman\pacman\pacman.cpp(447): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\l011092i\onedrive - staffordshire university\fggsd tutorials\pacman\pacman\pacman.cpp(522): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\l011092i\onedrive - staffordshire university\fggsd tutorials\pacman\pacman\pacman.cpp(523): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\l011092i\onedrive - staffordshire university\fggsd tutorials\pacman\pacman\pacman.cpp(536): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\l011092i\onedrive - staffordshire university\fggsd tutorials\pacman\pacman\pacman.cpp(552): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\l011092i\onedrive - staffordshire university\fggsd tutorials\pacman\pacman\pacman.cpp(553): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\l011092i\onedrive - staffordshire university\fggsd tutorials\pacman\pacman\pacman.cpp(566): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\l011092i\onedrive - staffordshire university\fggsd tutorials\pacman\pacman\pacman.cpp(567): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\l011092i\onedrive - staffordshire university\fggsd tutorials\pacman\pacman\pacman.cpp(568): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\l011092i\onedrive - staffordshire university\fggsd tutorials\pacman\pacman\pacman.cpp(575): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\l011092i\onedrive - staffordshire university\fggsd tutorials\pacman\pacman\pacman.cpp(577): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\l011092i\onedrive - staffordshire university\fggsd tutorials\pacman\pacman\pacman.cpp(581): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\l011092i\onedrive - staffordshire university\fggsd tutorials\pacman\pacman\pacman.cpp(582): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\l011092i\onedrive - staffordshire university\fggsd tutorials\pacman\pacman\pacman.cpp(604): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Pacman.vcxproj -> C:\Users\l011092i\OneDrive - Staffordshire University\FGGSD tutorials\Pacman\Debug\Pacman.exe
